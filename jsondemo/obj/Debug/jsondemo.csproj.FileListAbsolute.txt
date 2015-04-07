@@ -1,0 +1,16 @@
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\bin\Debug\jsondemo.exe.config
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\bin\Debug\jsondemo.exe
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\bin\Debug\jsondemo.pdb
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\obj\Debug\jsondemo.csprojResolveAssemblyReference.cache
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\obj\Debug\jsondemo.Form1.resources
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\obj\Debug\jsondemo.Properties.Resources.resources
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\obj\Debug\jsondemo.csproj.GenerateResource.Cache
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\obj\Debug\jsondemo.exe
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\obj\Debug\jsondemo.pdb
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\bin\Debug\ServiceStack.Text.dll
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\bin\Debug\ServiceStack.Text.EnumMemberSerializer.dll
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\bin\Debug\ServiceStack.Text.TupleSerializer.dll
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\bin\Debug\ServiceStack.Text.xml
+C:\Users\JHOLDER\Documents\Visual Studio 2013\Projects\jsondemo\jsondemo\bin\Debug\ServiceStack.Text.EnumMemberSerializer.xml
